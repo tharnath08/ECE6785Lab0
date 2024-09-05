@@ -1,7 +1,7 @@
 
 | Branch | Status |
 | :------------ |:---------------:|
-| Main      | ![example workflow](https://github.com/tharnath08/ECE6785Lab0/actions/workflows/main.yml/badge.svg) |
+| Main      | ![example workflow](https://github.com/tharnath08/ECE6785Lab0/actions/workflows/main.yml/badge.svg?branch=main) |
 | compilation-demo      | ![example workflow](https://github.com/tharnath08/ECE6785Lab0/actions/workflows/main.yml/badge.svg?branch=compilation-demo)        |
 
 
